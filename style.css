@@ -4,4 +4,7 @@ body{
 }
 main{
     border: solid 2px green;
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px;
 }

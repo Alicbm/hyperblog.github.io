@@ -1,5 +1,5 @@
 body{
-    background-color: aliceblue;
+    background-color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 main{
@@ -7,4 +7,5 @@ main{
     width: 70%;
     margin: 0 auto;
     padding: 20px;
+    color: darkgreen;
 }

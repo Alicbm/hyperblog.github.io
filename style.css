@@ -9,3 +9,9 @@ main{
     padding: 20px;
     color: darkgreen;
 }
+h1{
+    height: 40px;
+    background-color: darkgrey;
+    color: black;
+    text-align: center;
+}

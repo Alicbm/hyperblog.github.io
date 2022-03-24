@@ -10,8 +10,8 @@ main{
     color: darkgreen;
 }
 h1{
-    text-align: center;
     height: 40px;
-    background-color: darkgreen;
+    background-color: darkgrey;
     color: black;
+    text-align: center;
 }

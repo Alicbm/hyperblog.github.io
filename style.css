@@ -1,5 +1,5 @@
 body{
-    background-color: aliceblue;
+    background-color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 main{
@@ -7,10 +7,11 @@ main{
     width: 70%;
     margin: 0 auto;
     padding: 20px;
+    color: darkgreen;
 }
 h1{
     text-align: center;
     height: 40px;
     background-color: darkgreen;
-    color: darkgreen;
+    color: black;
 }

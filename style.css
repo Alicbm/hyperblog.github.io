@@ -8,3 +8,9 @@ main{
     margin: 0 auto;
     padding: 20px;
 }
+h1{
+    text-align: center;
+    height: 40px;
+    background-color: darkgreen;
+    color: black;
+}
